@@ -1,5 +1,3 @@
-# Name : Hala robaia , khadiga abo deeb , Muhammad tatar
-# Id :     211964861 ,      212149181   , 
 
 matrix:  .byte 2,7,34,68,56,89,156,122,135,0,33,122,122,66,18,255
 matrixDimensions:	.word 4
